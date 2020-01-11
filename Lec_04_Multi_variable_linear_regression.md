@@ -1,4 +1,6 @@
-![image-20200102190249250](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200102190249250.png)
+<img src="/image/3_6.png" style="zoom:0%;" />
 
-![image-20200102190305163](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200102190305163.png)
+
+
+<img src="/image/3_7.png" style="zoom:0%;" />
 

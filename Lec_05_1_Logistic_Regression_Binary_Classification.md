@@ -1,4 +1,4 @@
-![image-20200102190409675](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200102190409675.png)
+<img src="/image/5_1.png" style="zoom:0%;" />
 
 ​                              Logistic                                                                                                     Linear
 
@@ -8,7 +8,11 @@
 
 ​                    ====>  One Hot                                                                                      ====> Numeric
 
-![image-20200102190804836](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200102190804836.png)
+
+
+<img src="/image/5_2.png" style="zoom:0%;" />
+
+
 
 > => Linear Regression으로 데이터를 구분 할 수 없음
 
@@ -16,7 +20,9 @@
 
 
 
-![image-20200102191033343](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200102191033343.png)
+<img src="/image/5_3.png" style="zoom:0%;" />
+
+
 
 ##### Linear function을 통해 숫자가 나오면
 
@@ -28,7 +34,9 @@
 
 ## Sigmoid function ( Logistic function)
 
-![image-20200102191502030](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200102191502030.png)
+<img src="/image/5_4.png" style="zoom:0%;" />
 
-![image-20200102191519566](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200102191519566.png)
+<img src="/image/5_5.png" style="zoom:0%;" />
+
+
 

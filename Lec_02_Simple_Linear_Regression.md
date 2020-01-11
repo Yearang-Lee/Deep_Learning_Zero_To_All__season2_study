@@ -6,9 +6,7 @@
 >
 > > - y =ax + b
 
-![image-20200102184704861](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200102184704861.png)
-
-
+<img src="/image/2_1.png" style="zoom:0%;" />
 
 
 
@@ -24,7 +22,7 @@
 
 ## Cost
 
-<img src="C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200102185215483.png" alt="image-20200102185215483" style="zoom:80%;" />
+<img src="/image/2_2.png" style="zoom:0%;" />
 
 #### H(x) - y
 
@@ -44,9 +42,7 @@
 
   H(x) = Wx + b 
 
-<img src="C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200102185411182.png" alt="image-20200102185411182" style="zoom:67%;" />
-
-
+<img src="/image/2_3.png" style="zoom:0%;" />
 
   => Cost함수를 최소화하는 W와 b를 찾는 것
 
