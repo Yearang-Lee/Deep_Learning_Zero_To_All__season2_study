@@ -39,9 +39,11 @@ W와 b값을 랜덤 값으로 정해 --> Cost(W,b)가 작아지도록 업데이�
    - learning rate : 기울기 값을 얼마만큼 반영해서 W에서 뺄지 결정하는 계수
      - ex) learning rate값이 크다면 큰 값을 빨리 빼서 크게 변할 것임 ( W의 값이 큰 폭으로 움직일 것임), 주로 0.001 같은 작은 값을 사용
 
+미분하기 위해
 
 
-  미분하기 위해 <img src="/image/3_4.png" style="zoom:0%;" />
+
+  <img src="/image/3_4.png" style="zoom:0%;" />
 
 
 

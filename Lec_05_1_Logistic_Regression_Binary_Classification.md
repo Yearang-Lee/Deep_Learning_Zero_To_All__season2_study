@@ -1,14 +1,11 @@
 <img src="/image/5_1.png" style="zoom:0%;" />
 
-​                              Logistic                                                                                                     Linear
+​                                                       
 
-​                             (Discrete)                                                                                              (Continuous)
-
-​                      [ [0] , [0] , [1] , [1] ]                                                                                [12.35, 14.23, 16.56]
-
-​                    ====>  One Hot                                                                                      ====> Numeric
-
-
+| Logistic__(Discrete)      | Linear__(Continuous)  |
+| ------------------------- | --------------------- |
+| [ [0] , [0] , [1] , [1] ] | [12.35, 14.23, 16.56] |
+| One Hot                   | Numeric               |
 
 <img src="/image/5_2.png" style="zoom:0%;" />
 
